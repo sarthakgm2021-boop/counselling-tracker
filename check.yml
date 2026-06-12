@@ -1,0 +1,47 @@
+name: Counselling Tracker
+
+on:
+  schedule:
+    # 12:00 AM IST  =  18:30 UTC (previous day)
+    - cron: "30 18 * * *"
+    # 4:00 PM IST   =  10:30 UTC
+    - cron: "30 10 * * *"
+  # Manual trigger — use this to test or force a run anytime
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to commit snapshot.json + schedule.json back
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GROQ_API_KEY:     ${{ secrets.GROQ_API_KEY }}
+        run: python checker.py
+
+      - name: Commit updated snapshot and schedule
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snapshot.json schedule.json yt_channel_cache.json
+          # Only commit if something actually changed
+          git diff --staged --quiet || git commit -m "chore: update snapshot $(date '+%Y-%m-%d %H:%M IST')"
+          git push

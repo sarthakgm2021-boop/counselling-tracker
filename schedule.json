@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "date": "2026-06-12",
+      "counselling": "GGSIPU",
+      "event": "Round 1 Seat Allotment Result",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-06-16",
+      "counselling": "GGSIPU",
+      "event": "Fee Payment / Seat Freezing Deadline (Round 1)",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-06-17",
+      "counselling": "GGSIPU",
+      "event": "Document Verification Deadline (Round 1)",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-06-19",
+      "counselling": "GGSIPU",
+      "event": "Round 2 Choice Modification Opens",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-06-28",
+      "counselling": "GGSIPU",
+      "event": "Round 2 Choice Modification Closes",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-06-29",
+      "counselling": "GGSIPU",
+      "event": "Round 2 Seat Allotment",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-07-01",
+      "counselling": "GGSIPU",
+      "event": "Round 2 Fee Payment Deadline",
+      "action_required": true,
+      "source_notice": "Seeded from official schedule"
+    },
+    {
+      "date": "2026-07-10",
+      "counselling": "JAC Delhi",
+      "event": "Round 1 Seat Allotment (tentative — confirm from portal)",
+      "action_required": true,
+      "source_notice": "Seeded from past pattern"
+    }
+  ]
+}
