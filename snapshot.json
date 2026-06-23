@@ -63,6 +63,10 @@
       "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
     },
     {
+      "title": "EXTENSION OF SCHEDULE OF ROUND 1 FOR THE PROGRAMMES NOTIFIED VIDE UNIVERSITY’S NOTIFICATION NO. 40/2026 dated 17.06.2026 (except Code 128 LE B.TECH. Diploma Holders)_dated-23.06.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606231420678533.pdf"
+    },
+    {
       "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING BHMCT (CET CODE-127) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260622774114457.pdf"
     },
@@ -73,10 +77,6 @@
     {
       "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING BS (PACKAGING TECHNOLOGY) (CET CODE-136) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606221369254592.pdf"
-    },
-    {
-      "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING M.Sc.(YOGA) (CET CODE-187) ADMISSSION SESSION: 2026-27_dated_22.06.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606221060227714.pdf"
     },
     {
       "title": "UG Admission Brochure 2026-2027 New",
@@ -133,11 +133,11 @@
   ],
   "_youtube": {
     "Ram Roop Sharma": [
+      "https://www.youtube.com/watch?v=IcV1vw4lqTk",
+      "https://www.youtube.com/watch?v=pwKyKudzuDE",
       "https://www.youtube.com/watch?v=fO1zwU0y_ok",
       "https://www.youtube.com/watch?v=8ZJOFOeIDJk",
-      "https://www.youtube.com/watch?v=cyRibAMA6lc",
-      "https://www.youtube.com/watch?v=ba2HCdy2cg0",
-      "https://www.youtube.com/watch?v=paBYM0_cCeQ"
+      "https://www.youtube.com/watch?v=cyRibAMA6lc"
     ],
     "Vashisht Academy": [
       "https://www.youtube.com/watch?v=-R4Dg6-kQco",
@@ -147,18 +147,18 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/shorts/a4qMENz4iRs",
+      "https://www.youtube.com/shorts/tVXNOrB52u8",
+      "https://www.youtube.com/shorts/BQSJJaBFy80",
       "https://www.youtube.com/watch?v=TUxBi8sxWlg",
-      "https://www.youtube.com/shorts/CoG6yW4lyhA",
-      "https://www.youtube.com/shorts/yBSkkZdkNiA",
-      "https://www.youtube.com/shorts/qM__MKt-T6Q",
-      "https://www.youtube.com/shorts/7sAeTCStlTI"
+      "https://www.youtube.com/shorts/CoG6yW4lyhA"
     ],
     "Motion Online JEE": [
+      "https://www.youtube.com/shorts/8XYzK3306IA",
+      "https://www.youtube.com/shorts/rI5jVW2Hjsw",
       "https://www.youtube.com/shorts/Au_MMlICsNc",
       "https://www.youtube.com/shorts/yh0unbYsN5U",
-      "https://www.youtube.com/shorts/KL4vJfpabeI",
-      "https://www.youtube.com/shorts/U0MUFgZxiyI",
-      "https://www.youtube.com/shorts/8rj_9Sskkrg"
+      "https://www.youtube.com/shorts/KL4vJfpabeI"
     ],
     "STBG Academy": [
       "https://www.youtube.com/shorts/tq_DRG7KhRI",
@@ -175,18 +175,18 @@
       "https://www.youtube.com/watch?v=VXivBKP2mR8"
     ],
     "Allen JEE": [
-      "https://www.youtube.com/shorts/moYltWC0hA8",
-      "https://www.youtube.com/watch?v=xuiHPeylRIM",
-      "https://www.youtube.com/shorts/2aQypMdpgTA",
-      "https://www.youtube.com/shorts/gUjVUr7YXoE",
-      "https://www.youtube.com/shorts/R9wULCau0nk"
+      "https://www.youtube.com/shorts/j5zsj74rHYU",
+      "https://www.youtube.com/shorts/FgI95medtV8",
+      "https://www.youtube.com/shorts/uzHUanhy0uE",
+      "https://www.youtube.com/shorts/F1P4ezU6v-Q",
+      "https://www.youtube.com/shorts/moYltWC0hA8"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/watch?v=ex-3NpvJSk4",
       "https://www.youtube.com/shorts/Vnxpaa7sD-c",
       "https://www.youtube.com/shorts/LcQdbuV0AGI",
       "https://www.youtube.com/watch?v=nMxYaTPtwvM",
-      "https://www.youtube.com/shorts/QNVrmrc9Ul0",
-      "https://www.youtube.com/shorts/GCsZz3uPTd8"
+      "https://www.youtube.com/shorts/QNVrmrc9Ul0"
     ]
   }
 }
