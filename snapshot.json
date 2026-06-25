@@ -48,7 +48,12 @@
       "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf"
     }
   ],
-  "FOT DU": [],
+  "FOT DU": [
+    {
+      "title": "Schedule",
+      "link": "https://drive.google.com/file/d/1sZ4DbcNHX0r7K5q2iMs-_CBoNImyVJN_/view?usp=sharing"
+    }
+  ],
   "GGSIPU": [
     {
       "title": "दिल्ली सरकार / Government of Delhi",
@@ -63,6 +68,10 @@
       "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
     },
     {
+      "title": "SCHEDULE OF 1ST OFFLINE COUNSELLING MPO(CET CODE-109) ADMISSION SESSION:2026-27 dated-25.06.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606251902717507.pdf"
+    },
+    {
       "title": "MERIT LIST FOR POST BASIC B.SC (NURSING) (CODE-188) ACADEMIC SESSION:2026-27 _dated-25.06.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625117350291.pdf"
     },
@@ -73,10 +82,6 @@
     {
       "title": "MERIT LIST OF M.SC (NURSING) PROGRAMME (CODE-198) ACADEMIC SESSION 2026-27. DATED 25-06-2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/20260625850872170.pdf"
-    },
-    {
-      "title": "NOTIFICATION REGARDING EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORMS OF M.TECH (INDUSTRIAL BIOTECH.)(CODE-151)& MBA (DISASTER MANAGEMENT)(WEEKEND) (CODE-186) PROGRAMME A.S. 2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/06/202606251984087577.pdf"
     },
     {
       "title": "UG Admission Brochure 2026-2027 New",
@@ -129,6 +134,14 @@
     {
       "title": "IPU Registration 2026",
       "link": "https://admissions.nic.in/IPUADM/Applicant/Root/home.aspx?enc=yVQCIiq12npg+pcvNJRdc0YTdqI/r6UpNtHUkVddWy9SG879809gkErWCjQnR+tD+ZL5AF8JuNgAQDgVlpnnSw=="
+    },
+    {
+      "title": "REGARDING INTAKE FOR ADMISSION IN LLB 3YEAR (CODE-238) ACADEMIC SESSION: 2026-27",
+      "link": "https://ipu.admissions.nic.in/document/regarding-intake-for-admission-in-llb-3year-code-238-academic-session-2026-27/"
+    },
+    {
+      "title": "REGARDING INTAKE FOR ADMISSION IN INTEGRATED BA-LLB (H) AND BBA-LLB (H) (CODE-121) ACADEMIC SESSION: 2026-27",
+      "link": "https://ipu.admissions.nic.in/document/regarding-intake-for-admission-in-integrated-ba-llb-h-and-bba-llb-h-code-121-academic-session-2026-27/"
     }
   ],
   "_youtube": {
@@ -147,11 +160,11 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/shorts/a2HIJp1IjA4",
       "https://www.youtube.com/shorts/6ivasBK6UPk",
       "https://www.youtube.com/shorts/xmhd42IF5no",
       "https://www.youtube.com/shorts/oHnOoSsrVHI",
-      "https://www.youtube.com/shorts/T20MeVljL84",
-      "https://www.youtube.com/shorts/hBikUuJ_Ecs"
+      "https://www.youtube.com/shorts/T20MeVljL84"
     ],
     "Motion Online JEE": [
       "https://www.youtube.com/shorts/DxuykPafBvo",
@@ -182,11 +195,11 @@
       "https://www.youtube.com/shorts/rtKmGgLuT7s"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/watch?v=T-ZULMZDiFM",
       "https://www.youtube.com/shorts/LSGkYxhiyv4",
       "https://www.youtube.com/watch?v=rMoxngHXgrk",
       "https://www.youtube.com/shorts/rJwo7Z-d9ts",
-      "https://www.youtube.com/watch?v=ex-3NpvJSk4",
-      "https://www.youtube.com/shorts/Vnxpaa7sD-c"
+      "https://www.youtube.com/watch?v=ex-3NpvJSk4"
     ]
   }
 }
