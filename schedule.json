@@ -1,6 +1,12 @@
 {
   "events": [
     {
+      "date": "2026-06-02",
+      "event": "ROUND 01 CUT OFF",
+      "counselling": "GGSIPU",
+      "source_notice": "BCA (Code-114) ROUND 01 CUT OFF DATED 02.06.2026 A.S. 2026-27"
+    },
+    {
       "date": "2026-06-12",
       "counselling": "GGSIPU",
       "event": "Round 1 Seat Allotment Result",
