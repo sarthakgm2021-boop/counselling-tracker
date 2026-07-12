@@ -1,9 +1,144 @@
 {
   "JOSAA": [],
-  "JAC Delhi": [],
-  "JAC Chandigarh": [],
+  "JAC Delhi": [
+    {
+      "title": "Guidelines for the Spot Round",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607101122161731.pdf"
+    },
+    {
+      "title": "NSUT Round 3 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091516947066.pdf"
+    },
+    {
+      "title": "DTU Round 3 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091707226292.pdf"
+    },
+    {
+      "title": "IIITD Round 3 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091962797998.pdf"
+    },
+    {
+      "title": "IGDTUW Round 3 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091316184882.pdf"
+    },
+    {
+      "title": "DSEU Round 3 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607091346327747.pdf"
+    },
+    {
+      "title": "IIITD Round 2 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260702737623821.pdf"
+    },
+    {
+      "title": "DTU Round 2 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021961586254.pdf"
+    },
+    {
+      "title": "NSUT Round 2 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021272551822.pdf"
+    },
+    {
+      "title": "DSEU Round 2 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021801581511.pdf"
+    },
+    {
+      "title": "IGDTUW Round 2 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021225577462.pdf"
+    },
+    {
+      "title": "Notice for choice editing",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260629302066625.pdf"
+    }
+  ],
+  "JAC Chandigarh": [
+    {
+      "title": "Notice – Addition of PUW Subcategory in JAC-2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf"
+    }
+  ],
   "FOT DU": [],
-  "GGSIPU": [],
+  "GGSIPU": [
+    {
+      "title": "दिल्ली सरकार / Government of Delhi",
+      "link": "https://portal.delhi.gov.in/"
+    },
+    {
+      "title": "उच्च शिक्षा निदेशालय / Directorate of Higher Education",
+      "link": "http://higheredn.delhigovt.nic.in/"
+    },
+    {
+      "title": "Intake 2025-26/MQ Seats",
+      "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
+    },
+    {
+      "title": "B.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111662117469.pdf"
+    },
+    {
+      "title": "M.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111925493358.pdf"
+    },
+    {
+      "title": "M.Sc(Packaging Technology)_604 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711857844425.pdf"
+    },
+    {
+      "title": "B.Sc(Packaging Technology)_136 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111266972408.pdf"
+    },
+    {
+      "title": "UG Admission Brochure 2026-2027 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/UG.pdf"
+    },
+    {
+      "title": "PG Admission Brochure 2026-2027 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/PG.pdf"
+    },
+    {
+      "title": "Ph.D Admission Brochure 2026-2027 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/01/202601291362467936.pdf"
+    },
+    {
+      "title": "NCR Fee for 2025-2026, 2026-2027 & 2027-2028 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/202601211445219950.pdf"
+    },
+    {
+      "title": "Fee Structure of Self Financing Institutes for Academic Year 2025-2026, 2026-2027, 2027-2028__6th SFRC Gazette Notification dated 14.07.2025 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/20260102850241896.pdf"
+    },
+    {
+      "title": "Delhi Professional Colleges and Institutions Act 2007 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061648.pdf"
+    },
+    {
+      "title": "Delhi Professional Colleges and Institutions Rules 2007 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061673.pdf"
+    },
+    {
+      "title": "Regarding introduction of compulsory service bond for All India quota and State quota Undergraduate and Postgraduate Medical students New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025060239.pdf"
+    },
+    {
+      "title": "Notification for verification of Delhi Scheduled Caste Certificates New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/05/2023051962.pdf"
+    },
+    {
+      "title": "List of OBC approved by SC-ST-OBC welfare department in Delhi New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/04/2025040346.pdf"
+    },
+    {
+      "title": "Fee Structure of Self Financing Institutes for Academic Year 2022-23, 2023-24, 2024-25 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2024/01/2024013127.pdf"
+    },
+    {
+      "title": "Partial Amendment in fee structure of the Self-Financing Institutes for the Academic Year 2022-23, 2023-24, 2024-25 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/04/2023042548.pdf"
+    },
+    {
+      "title": "IPU Registration 2026",
+      "link": "https://admissions.nic.in/IPUADM/Applicant/Root/home.aspx?enc=yVQCIiq12npg+pcvNJRdc0YTdqI/r6UpNtHUkVddWy9SG879809gkErWCjQnR+tD+ZL5AF8JuNgAQDgVlpnnSw=="
+    }
+  ],
   "_youtube": {
     "Ram Roop Sharma": [
       "https://www.youtube.com/watch?v=lK9gztP9Skk",
@@ -20,11 +155,11 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/shorts/gWEtFLB7SYY",
       "https://www.youtube.com/shorts/EGzheIeLLPg",
       "https://www.youtube.com/shorts/rMtEaXEXGUA",
       "https://www.youtube.com/watch?v=fhP8_yabpa0",
-      "https://www.youtube.com/shorts/iv_pF2a3njQ",
-      "https://www.youtube.com/watch?v=AonFDnMct6Y"
+      "https://www.youtube.com/shorts/iv_pF2a3njQ"
     ],
     "Motion Online JEE": [
       "https://www.youtube.com/shorts/cB6bjze65tU",
