@@ -2,6 +2,26 @@
   "JOSAA": [],
   "JAC Delhi": [
     {
+      "title": "IIITD Round 4 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260715984246378.pdf"
+    },
+    {
+      "title": "NSUT Round 4 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607151464672174.pdf"
+    },
+    {
+      "title": "DTU Round 4 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260715952726882.pdf"
+    },
+    {
+      "title": "IGDTUW Round 4 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260715741279300.pdf"
+    },
+    {
+      "title": "DSEU Round 4 Cut Off 2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260715819491161.pdf"
+    },
+    {
       "title": "Guidelines for the Spot Round",
       "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607101122161731.pdf"
     },
@@ -28,26 +48,6 @@
     {
       "title": "IIITD Round 2 Cut Off 2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260702737623821.pdf"
-    },
-    {
-      "title": "DTU Round 2 Cut Off 2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021961586254.pdf"
-    },
-    {
-      "title": "NSUT Round 2 Cut Off 2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021272551822.pdf"
-    },
-    {
-      "title": "DSEU Round 2 Cut Off 2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021801581511.pdf"
-    },
-    {
-      "title": "IGDTUW Round 2 Cut Off 2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607021225577462.pdf"
-    },
-    {
-      "title": "Notice for choice editing",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/06/20260629302066625.pdf"
     }
   ],
   "JAC Chandigarh": [
@@ -56,12 +56,7 @@
       "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf"
     }
   ],
-  "FOT DU": [
-    {
-      "title": "Schedule",
-      "link": "https://drive.google.com/file/d/1sZ4DbcNHX0r7K5q2iMs-_CBoNImyVJN_/view?usp=sharing"
-    }
-  ],
+  "FOT DU": [],
   "GGSIPU": [
     {
       "title": "दिल्ली सरकार / Government of Delhi",
@@ -164,11 +159,11 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/watch?v=rEC-ut-SEII",
+      "https://www.youtube.com/watch?v=B4QAh8CINko",
+      "https://www.youtube.com/shorts/V8uK-aNFm1k",
       "https://www.youtube.com/shorts/4s7VKYbk6Qw",
-      "https://www.youtube.com/shorts/68Cm9uEme4U",
-      "https://www.youtube.com/watch?v=S4pZiYOH-Xs",
-      "https://www.youtube.com/shorts/K2TltC9dcWg",
-      "https://www.youtube.com/watch?v=bl9YYYdECQM"
+      "https://www.youtube.com/shorts/68Cm9uEme4U"
     ],
     "Motion Online JEE": [
       "https://www.youtube.com/shorts/6iuI9alpfDk",
@@ -200,10 +195,10 @@
     ],
     "Motion NV Sir": [
       "https://www.youtube.com/watch?v=Mxz_8lzagZA",
-      "https://www.youtube.com/shorts/URTV1HYPigI",
       "https://www.youtube.com/shorts/iE_zQhTDyqg",
       "https://www.youtube.com/shorts/Q7N2OarJJg8",
-      "https://www.youtube.com/shorts/5eSsRRxUugY"
+      "https://www.youtube.com/shorts/5eSsRRxUugY",
+      "https://www.youtube.com/shorts/nXL8bea6mcA"
     ]
   }
 }
