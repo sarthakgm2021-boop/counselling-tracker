@@ -85,6 +85,12 @@
       "event": "Round 1 Seat Allotment (tentative — confirm from portal)",
       "action_required": true,
       "source_notice": "Seeded from past pattern"
+    },
+    {
+      "date": "2026-07-17",
+      "event": "Choice filling for CUTOFF ROUND 02",
+      "counselling": "GGSIPU",
+      "source_notice": "L.E. B.Tech (CODE-128) CUTOFF ROUND 02 _dated-17.07.2026"
     }
   ]
 }
