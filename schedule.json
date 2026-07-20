@@ -91,6 +91,24 @@
       "event": "Choice filling for CUTOFF ROUND 02",
       "counselling": "GGSIPU",
       "source_notice": "L.E. B.Tech (CODE-128) CUTOFF ROUND 02 _dated-17.07.2026"
+    },
+    {
+      "date": "2026-07-20",
+      "event": "2nd OFFLINE COUNSELLING MPH(FE) (CODE-412)",
+      "counselling": "GGSIPU",
+      "source_notice": "SCHEDULE OF 2nd OFFLINE COUNSELLING MPH(FE) (CODE-412) Followed by OPEN HOUSE A.S:2026-27_dated-20.0"
+    },
+    {
+      "date": "2026-07-20",
+      "event": "2nd Offline Counselling for BHMCT (Code-127)",
+      "counselling": "GGSIPU",
+      "source_notice": "SCHEDULE OF 2nd OFFLINE COUNSELLING BHMCT (CODE-127) Followed by OPEN HOUSE A.S:2026-27_dated-20.07."
+    },
+    {
+      "date": "2026-07-20",
+      "event": "Open House A.S:2026-27",
+      "counselling": "GGSIPU",
+      "source_notice": "SCHEDULE OF 2nd OFFLINE COUNSELLING BHMCT (CODE-127) Followed by OPEN HOUSE A.S:2026-27_dated-20.07."
     }
   ]
 }
