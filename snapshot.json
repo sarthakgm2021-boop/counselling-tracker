@@ -7,6 +7,10 @@
   ],
   "JAC Delhi": [
     {
+      "title": "NSUT – Special Spot Round Notice",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/202608211050491749.pdf"
+    },
+    {
       "title": "DTU – Special Spot Round Notice",
       "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260819334364589.pdf"
     },
@@ -49,10 +53,6 @@
     {
       "title": "Spot Round Counselling Schedule 2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607221251392055.pdf"
-    },
-    {
-      "title": "Vacancies for Spot Round Admissions 2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260721179065181.pdf"
     }
   ],
   "JAC Chandigarh": [
@@ -92,20 +92,20 @@
       "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
     },
     {
+      "title": "SPOT ROUND 3(OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/B.COM(H)/ LE B.TECH, BA ENG and BA ECO PROG. Through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-2",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821805870161.pdf"
+    },
+    {
+      "title": "CUET MERIT LIST FOR B.A (ECO) PRG CODE 197 FOR THE A.S.2026-27_dated-21.08.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821965059559.pdf"
+    },
+    {
       "title": "CONDUCT OF SPECIAL ENTRANCE TEST (SET) FOR THE PROGRAMME B.ED. (CODE 122) AND B.ED. (SE) (CODE 159) AND BA(JMC) (CODE 126): A.S:2026-27_dated-21.08.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608211920404724.pdf"
     },
     {
       "title": "EXTENSION OF DATE FOR FILLING UP OF ONLINE APPLICATION/ REGISTRATION FORMS FOR EXTENDED OPEN HOUSE OFFLINE COUNSELLING OF PROG. B.ARCH (CODE-100) A.S.2026-27_dated-21.08.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821635964341.pdf"
-    },
-    {
-      "title": "NOTICE REGARDING LLB (3 YEARS) (CET CODE 238): ADMISSION THROUGH CUET (PG)_dated-20.08.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608202091098939.pdf"
-    },
-    {
-      "title": "REVISED CUET MERIT LIST FOR BCA PRG. CODE 114 FOR THE A.S.2026-27_dated-20.08.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201063639556.pdf"
     },
     {
       "title": "UG Admission Brochure 2026-2027 New",
@@ -162,11 +162,11 @@
   ],
   "_youtube": {
     "Ram Roop Sharma": [
+      "https://www.youtube.com/watch?v=dL0XSi7_TBY",
       "https://www.youtube.com/watch?v=QvWO3yRjc7E",
       "https://www.youtube.com/watch?v=D7vunK76pxU",
       "https://www.youtube.com/watch?v=yA6hkC3NJ8k",
-      "https://www.youtube.com/watch?v=bBcQBWnCWlg",
-      "https://www.youtube.com/watch?v=CHPVe_2lz6c"
+      "https://www.youtube.com/watch?v=bBcQBWnCWlg"
     ],
     "Vashisht Academy": [
       "https://www.youtube.com/watch?v=-R4Dg6-kQco",
@@ -176,11 +176,11 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/watch?v=iTLLtAAckvI",
+      "https://www.youtube.com/shorts/HlpoEh8s9lg",
+      "https://www.youtube.com/watch?v=62x54rAal-Q",
       "https://www.youtube.com/shorts/iUGyWkk18W4",
-      "https://www.youtube.com/watch?v=euWEHBRMOC4",
-      "https://www.youtube.com/watch?v=Id0Io2CVA3Y",
-      "https://www.youtube.com/watch?v=kVAE1XvJCv8",
-      "https://www.youtube.com/shorts/10jEAZxhrI8"
+      "https://www.youtube.com/watch?v=euWEHBRMOC4"
     ],
     "Motion Online JEE": [
       "https://www.youtube.com/shorts/hfDMEdkIEAg",
@@ -204,11 +204,11 @@
       "https://www.youtube.com/watch?v=VDf0SnALiF4"
     ],
     "Allen JEE": [
+      "https://www.youtube.com/shorts/pZVFfPgH2Iw",
       "https://www.youtube.com/shorts/YoUzICf2AjU",
       "https://www.youtube.com/shorts/Pc5e3F097qo",
       "https://www.youtube.com/shorts/BCU3qAKcGlk",
-      "https://www.youtube.com/watch?v=KH6hBQb0-AU",
-      "https://www.youtube.com/shorts/_vlX2uPrXPY"
+      "https://www.youtube.com/watch?v=KH6hBQb0-AU"
     ],
     "Motion NV Sir": [
       "https://www.youtube.com/shorts/XqZdvgG1ghQ",
