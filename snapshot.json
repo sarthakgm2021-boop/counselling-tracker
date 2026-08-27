@@ -1,9 +1,165 @@
 {
-  "JOSAA": [],
-  "JAC Delhi": [],
-  "JAC Chandigarh": [],
+  "JOSAA": [
+    {
+      "title": "Public Notice for PAF",
+      "link": "https://cdnbbsr.s3waas.gov.in/s313111c20aee51aeb480ecbd988cd8cc9/uploads/2026/07/202607211025780653.pdf"
+    }
+  ],
+  "JAC Delhi": [
+    {
+      "title": "DTU updated vacancy for GENERAL Category for Special Spot Round 25.08.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260825429522940.pdf"
+    },
+    {
+      "title": "NSUT – Special Spot Round Notice",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/202608211050491749.pdf"
+    },
+    {
+      "title": "DTU – Special Spot Round Notice",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260819334364589.pdf"
+    },
+    {
+      "title": "IGDTUW – Special Spot Round Notice",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260819778431859.pdf"
+    },
+    {
+      "title": "List of Admitted Candidates",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/08/20260803766352653.pdf"
+    },
+    {
+      "title": "Revised Vacancies of Delhi General and Delhi Girl Category for 31.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260730511564657.pdf"
+    },
+    {
+      "title": "Balance fee Notice DTU",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260730940919088.pdf"
+    },
+    {
+      "title": "Balance fee Notice IGDTUW",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607302009979714.pdf"
+    },
+    {
+      "title": "Revised Vacancy for Delhi General and Girl Category for 30.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607291940215335.pdf"
+    },
+    {
+      "title": "Revised Vacancies of Outside Delhi General and Girl Category for 29.07.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260728689113567.pdf"
+    },
+    {
+      "title": "NSUT Schedule of Activities for Newly Admitted Candidates",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/202607281769214598.pdf"
+    },
+    {
+      "title": "Revised Vacancy of Outside Delhi General and Girls category",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3e45823afe1e5120cec11fc4c379a0c67/uploads/2026/07/20260727303387289.pdf"
+    }
+  ],
+  "JAC Chandigarh": [
+    {
+      "title": "Sports Counselling 5 August 2026 Discrepancy List",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/08/20260804629947754.pdf"
+    },
+    {
+      "title": "Notice of UIET Hostel Allotment-2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/08/202608031722729405.pdf"
+    },
+    {
+      "title": "UIET Hoshiarpur Physical Reporting Schedule (After Third Round)",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/07/20260723364923575.pdf"
+    },
+    {
+      "title": "UIET Chd Physical Reporting Schedule (After Third Round)",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/07/20260722984014546.pdf"
+    },
+    {
+      "title": "Notice – Addition of PUW Subcategory in JAC-2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf"
+    }
+  ],
   "FOT DU": [],
-  "GGSIPU": [],
+  "GGSIPU": [
+    {
+      "title": "दिल्ली सरकार / Government of Delhi",
+      "link": "https://portal.delhi.gov.in/"
+    },
+    {
+      "title": "उच्च शिक्षा निदेशालय / Directorate of Higher Education",
+      "link": "http://higheredn.delhigovt.nic.in/"
+    },
+    {
+      "title": "Intake 2025-26/MQ Seats",
+      "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
+    },
+    {
+      "title": "B.SC(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH RAGISTRATION A.S:2026-27_dated-27.08.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271533639425.pdf"
+    },
+    {
+      "title": "Tentative Vancant Seat BA(ECO)_197 ACADEMIC SESSION 2026-27_dated-27.08.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271551428229.pdf"
+    },
+    {
+      "title": "SCHEDULE OF SPOT ROUND OF OFFLINE COUNSELLING MCA/MCA(SE) (CODE-105) (NIMCET/CET/CUET) and MBA (CODE-101) (CAT/CMAT/CET/CUET) A.S.2026-27_dated-27.08.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271873149132.pdf"
+    },
+    {
+      "title": "PROVISIONAL SEAT ALLOTMENT OF CANDIDATES IN PROG. MBBS (CODE-103) IN ROUND 01 ONLINE COUNSELLING BY GGSIP UNIVERSITY_2026-27_dated-27.08.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271495127589.pdf"
+    },
+    {
+      "title": "UG Admission Brochure 2026-2027 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/UG.pdf"
+    },
+    {
+      "title": "PG Admission Brochure 2026-2027 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/PG.pdf"
+    },
+    {
+      "title": "Ph.D Admission Brochure 2026-2027 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/01/202601291362467936.pdf"
+    },
+    {
+      "title": "NCR Fee for 2025-2026, 2026-2027 & 2027-2028 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/202601211445219950.pdf"
+    },
+    {
+      "title": "Fee Structure of Self Financing Institutes for Academic Year 2025-2026, 2026-2027, 2027-2028__6th SFRC Gazette Notification dated 14.07.2025 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/20260102850241896.pdf"
+    },
+    {
+      "title": "Delhi Professional Colleges and Institutions Act 2007 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061648.pdf"
+    },
+    {
+      "title": "Delhi Professional Colleges and Institutions Rules 2007 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061673.pdf"
+    },
+    {
+      "title": "Regarding introduction of compulsory service bond for All India quota and State quota Undergraduate and Postgraduate Medical students New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025060239.pdf"
+    },
+    {
+      "title": "Notification for verification of Delhi Scheduled Caste Certificates New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/05/2023051962.pdf"
+    },
+    {
+      "title": "List of OBC approved by SC-ST-OBC welfare department in Delhi New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/04/2025040346.pdf"
+    },
+    {
+      "title": "Fee Structure of Self Financing Institutes for Academic Year 2022-23, 2023-24, 2024-25 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2024/01/2024013127.pdf"
+    },
+    {
+      "title": "Partial Amendment in fee structure of the Self-Financing Institutes for the Academic Year 2022-23, 2023-24, 2024-25 New",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/04/2023042548.pdf"
+    },
+    {
+      "title": "IPU Registration 2026",
+      "link": "https://admissions.nic.in/IPUADM/Applicant/Root/home.aspx?enc=yVQCIiq12npg+pcvNJRdc0YTdqI/r6UpNtHUkVddWy9SG879809gkErWCjQnR+tD+ZL5AF8JuNgAQDgVlpnnSw=="
+    }
+  ],
   "_youtube": {
     "Ram Roop Sharma": [
       "https://www.youtube.com/watch?v=xeICvuD1rd4",
@@ -20,18 +176,18 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/shorts/ViJAu1_QwSY",
+      "https://www.youtube.com/watch?v=66UcAL8c48I",
       "https://www.youtube.com/watch?v=NxL-JOzYCzA",
-      "https://www.youtube.com/watch?v=9vhy_w9lYQs",
-      "https://www.youtube.com/shorts/57IfNaBKsgs",
-      "https://www.youtube.com/watch?v=1uY8cTiJDdE",
-      "https://www.youtube.com/shorts/qp0E9pRN7J4"
+      "https://www.youtube.com/shorts/cJIPcTLFMYM",
+      "https://www.youtube.com/watch?v=RTUK8yMAXNU"
     ],
     "Motion Online JEE": [
+      "https://www.youtube.com/shorts/yr7eyG9zsZQ",
+      "https://www.youtube.com/shorts/XtU56Ex8foo",
+      "https://www.youtube.com/shorts/fS8OQ-EaztE",
       "https://www.youtube.com/shorts/47K6sDnOIes",
-      "https://www.youtube.com/watch?v=l69zbQlKN0E",
-      "https://www.youtube.com/shorts/XvDHHmkqZHQ",
-      "https://www.youtube.com/shorts/IDOrH5_ENIk",
-      "https://www.youtube.com/shorts/ugYMWir6AvI"
+      "https://www.youtube.com/watch?v=l69zbQlKN0E"
     ],
     "STBG Academy": [
       "https://www.youtube.com/watch?v=BkK7Z5JbUn4",
@@ -48,18 +204,18 @@
       "https://www.youtube.com/watch?v=VDf0SnALiF4"
     ],
     "Allen JEE": [
-      "https://www.youtube.com/shorts/LffciGaPIOM",
-      "https://www.youtube.com/watch?v=O2E5GGahz7Y",
-      "https://www.youtube.com/shorts/Iiv4vKTNDTQ",
-      "https://www.youtube.com/watch?v=nc2IhuG14vY",
-      "https://www.youtube.com/shorts/PfU-02nItng"
+      "https://www.youtube.com/shorts/kJPT4I5XrrQ",
+      "https://www.youtube.com/watch?v=MQ5c0rNhsuM",
+      "https://www.youtube.com/watch?v=_MO5XvpTEo8",
+      "https://www.youtube.com/watch?v=J_G3mINxlQ0",
+      "https://www.youtube.com/shorts/cuhjompHkX4"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/kXvw47XViQg",
+      "https://www.youtube.com/shorts/WuI9Kgqkl50",
       "https://www.youtube.com/shorts/DC_CNiT1NVs",
       "https://www.youtube.com/shorts/_7BiiY6aLdQ",
-      "https://www.youtube.com/shorts/iCYAHonJBho",
-      "https://www.youtube.com/shorts/lzzagWRQduQ",
-      "https://www.youtube.com/shorts/gMa4UyMORg8"
+      "https://www.youtube.com/shorts/iCYAHonJBho"
     ]
   }
 }
