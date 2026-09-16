@@ -1,5 +1,10 @@
 {
-  "JOSAA": [],
+  "JOSAA": [
+    {
+      "title": "Public Notice for PAF",
+      "link": "https://cdnbbsr.s3waas.gov.in/s313111c20aee51aeb480ecbd988cd8cc9/uploads/2026/07/202607211025780653.pdf"
+    }
+  ],
   "JAC Delhi": [
     {
       "title": "DTU updated vacancy for GENERAL Category for Special Spot Round 25.08.2026",
@@ -90,8 +95,8 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/shorts/9NVyCCZBIcs",
       "https://www.youtube.com/watch?v=ldnRqjbT5wY",
-      "https://www.youtube.com/watch?v=vRVpKC3ry04",
       "https://www.youtube.com/watch?v=GqM2gqoOVmY",
       "https://www.youtube.com/watch?v=nRQ9z5qZDt4",
       "https://www.youtube.com/shorts/GVVdVi4XGG8"
@@ -125,11 +130,11 @@
       "https://www.youtube.com/shorts/pTnog4Si1bo"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/yxXMsH_A4SI",
       "https://www.youtube.com/shorts/SfwU-INzl6c",
       "https://www.youtube.com/shorts/0Ov-mB81O44",
       "https://www.youtube.com/shorts/5uIvr8i3B_g",
-      "https://www.youtube.com/shorts/7hzYh-8vDUA",
-      "https://www.youtube.com/shorts/IW9O4t4udkI"
+      "https://www.youtube.com/shorts/7hzYh-8vDUA"
     ]
   }
 }
