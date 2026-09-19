@@ -1,5 +1,10 @@
 {
-  "JOSAA": [],
+  "JOSAA": [
+    {
+      "title": "Public Notice for PAF",
+      "link": "https://cdnbbsr.s3waas.gov.in/s313111c20aee51aeb480ecbd988cd8cc9/uploads/2026/07/202607211025780653.pdf"
+    }
+  ],
   "JAC Delhi": [
     {
       "title": "DTU updated vacancy for GENERAL Category for Special Spot Round 25.08.2026",
@@ -171,18 +176,18 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/watch?v=gklMOwa7TrA",
+      "https://www.youtube.com/shorts/PmkDbdD_P60",
       "https://www.youtube.com/watch?v=2Y50WPCEfWQ",
       "https://www.youtube.com/watch?v=CkkspPKJA5o",
-      "https://www.youtube.com/shorts/Slh1VAJMDAY",
-      "https://www.youtube.com/shorts/1iJsCCZwJLs",
-      "https://www.youtube.com/watch?v=xvJhlolmYDc"
+      "https://www.youtube.com/shorts/Slh1VAJMDAY"
     ],
     "Motion Online JEE": [
+      "https://www.youtube.com/shorts/Hv9mkhrSYGE",
       "https://www.youtube.com/shorts/w_8gDJqGrf4",
       "https://www.youtube.com/watch?v=AVXUjF9RXBM",
       "https://www.youtube.com/shorts/RjySDcxdVL0",
-      "https://www.youtube.com/shorts/yV2HkQOMeyY",
-      "https://www.youtube.com/shorts/f90jFdtZ_JI"
+      "https://www.youtube.com/shorts/yV2HkQOMeyY"
     ],
     "STBG Academy": [
       "https://www.youtube.com/watch?v=BkK7Z5JbUn4",
@@ -206,11 +211,11 @@
       "https://www.youtube.com/shorts/dY-c58ML7V0"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/FXO-P_f3TC0",
       "https://www.youtube.com/shorts/o056NmpWtsM",
       "https://www.youtube.com/shorts/RbvMtDhZ5fU",
       "https://www.youtube.com/shorts/yxXMsH_A4SI",
-      "https://www.youtube.com/shorts/SfwU-INzl6c",
-      "https://www.youtube.com/shorts/0Ov-mB81O44"
+      "https://www.youtube.com/shorts/SfwU-INzl6c"
     ]
   }
 }
