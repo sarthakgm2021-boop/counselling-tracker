@@ -1,5 +1,10 @@
 {
-  "JOSAA": [],
+  "JOSAA": [
+    {
+      "title": "Public Notice for PAF",
+      "link": "https://cdnbbsr.s3waas.gov.in/s313111c20aee51aeb480ecbd988cd8cc9/uploads/2026/07/202607211025780653.pdf"
+    }
+  ],
   "JAC Delhi": [],
   "JAC Chandigarh": [
     {
@@ -122,25 +127,25 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
-      "https://www.youtube.com/shorts/ghWv4fsMQJ8",
-      "https://www.youtube.com/watch?v=g8gtLr9jR7o",
-      "https://www.youtube.com/watch?v=niDawvoCRH0",
-      "https://www.youtube.com/watch?v=wcquBx-1EgM",
-      "https://www.youtube.com/shorts/SQgAJSHO614"
+      "https://www.youtube.com/shorts/Xh1rnD05Ln0",
+      "https://www.youtube.com/shorts/wAD20QJHZak",
+      "https://www.youtube.com/watch?v=JhTHNHzVH1U",
+      "https://www.youtube.com/shorts/UOHsxUSXKXI",
+      "https://www.youtube.com/shorts/ghWv4fsMQJ8"
     ],
     "Motion Online JEE": [
+      "https://www.youtube.com/shorts/BzhrfvpQx8Y",
       "https://www.youtube.com/shorts/y_gAQHKZNy0",
       "https://www.youtube.com/shorts/Q-C6NbkPOHs",
       "https://www.youtube.com/shorts/PXmMUju_wTo",
-      "https://www.youtube.com/shorts/rodLyicoAMo",
-      "https://www.youtube.com/shorts/NDclDsUoMLo"
+      "https://www.youtube.com/shorts/rodLyicoAMo"
     ],
     "STBG Academy": [
+      "https://www.youtube.com/shorts/H6WNm4rxDi0",
       "https://www.youtube.com/shorts/v03LYdGdaDE",
       "https://www.youtube.com/shorts/_E0vBfLgXSA",
       "https://www.youtube.com/shorts/Uhkarjmr_Qo",
-      "https://www.youtube.com/shorts/jgpE0039Zx0",
-      "https://www.youtube.com/shorts/-DHbR96Y1to"
+      "https://www.youtube.com/shorts/jgpE0039Zx0"
     ],
     "9star Academy": [
       "https://www.youtube.com/watch?v=BA9em3hDt8Q",
@@ -150,18 +155,18 @@
       "https://www.youtube.com/shorts/L7zjM-Et5UQ"
     ],
     "Allen JEE": [
+      "https://www.youtube.com/shorts/2DzLs-RJ0bc",
       "https://www.youtube.com/watch?v=XIeqVHjHIgo",
       "https://www.youtube.com/shorts/szR4nlVPYbY",
       "https://www.youtube.com/watch?v=CdRCSBD8q0I",
-      "https://www.youtube.com/shorts/vnJcA0IZCio",
-      "https://www.youtube.com/shorts/LTc_bxsqZDI"
+      "https://www.youtube.com/shorts/vnJcA0IZCio"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/LylgIURBfVA",
       "https://www.youtube.com/shorts/1awImT1Z5X4",
       "https://www.youtube.com/shorts/4M1GfrNPDfk",
       "https://www.youtube.com/shorts/IL0GoBXPisM",
-      "https://www.youtube.com/shorts/jYJFkBSUoV8",
-      "https://www.youtube.com/shorts/qcUwtQvasWU"
+      "https://www.youtube.com/shorts/jYJFkBSUoV8"
     ]
   }
 }
