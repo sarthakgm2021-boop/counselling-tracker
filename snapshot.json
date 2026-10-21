@@ -1,10 +1,5 @@
 {
-  "JOSAA": [
-    {
-      "title": "Public Notice for PAF",
-      "link": "https://cdnbbsr.s3waas.gov.in/s313111c20aee51aeb480ecbd988cd8cc9/uploads/2026/07/202607211025780653.pdf"
-    }
-  ],
+  "JOSAA": [],
   "JAC Delhi": [
     {
       "title": "DTU updated vacancy for GENERAL Category for Special Spot Round 25.08.2026",
@@ -92,20 +87,20 @@
       "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
     },
     {
+      "title": "TENTATIVE VACANT SEATS FOR PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE 119/124) FOR THE A.S:2026-27_dated-21.10.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261021361285737.pdf"
+    },
+    {
+      "title": "B.Sc (H) NURSING (CODE-115) (NEET UG 2026 AND CET Qualified 2026)- STRAY ROUND:2026-27_dated-21.10.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610211586283653.pdf"
+    },
+    {
       "title": "SCHEDULE OF SPOT ROUND FOR PARAMEDICAL (B.OT/ B.PT/ BASLP/ BMLS/ BPO) OF OFFLINE COUNSELLING FOR THE ACADEMIC SESSION 2026-27 through CET 2026/ CUET 2026_dated-16.10.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610161147000502.pdf"
     },
     {
       "title": "CUET MERIT IN PARAMEDICAL (B.PT/ B.OT/ BASLP/ BMLS/ BPO) for Academic Session 2026-27_dated-16.10.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261016303675167.pdf"
-    },
-    {
-      "title": "TENTATIVE VACANT SEATS FOR B.ED (SPECIAL EDUCATION) (CODE-159) FOR THE A.S: 2026-27_dated-13.10.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610131878192517.pdf"
-    },
-    {
-      "title": "SCHEDULE OF 2nd ROUND (PGDYTMP (CODE-176) OF OFFLINE COUNSELLING FOR A.S: 2026-27_dated-08.10.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008412038361.pdf"
     },
     {
       "title": "UG Admission Brochure 2026-2027 New",
@@ -176,18 +171,18 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
+      "https://www.youtube.com/watch?v=EYrZPVojYwI",
       "https://www.youtube.com/watch?v=7JADjeWOMHc",
+      "https://www.youtube.com/watch?v=SrDwhaoD4xw",
       "https://www.youtube.com/shorts/dQ9s4cA6UAs",
-      "https://www.youtube.com/watch?v=PlBzgMYQno4",
-      "https://www.youtube.com/watch?v=5sEC_q5Hauk",
-      "https://www.youtube.com/watch?v=878Ms0oWzKo"
+      "https://www.youtube.com/watch?v=PlBzgMYQno4"
     ],
     "Motion Online JEE": [
+      "https://www.youtube.com/shorts/E5rc4nKmFj4",
       "https://www.youtube.com/shorts/jSAi9SItIb8",
       "https://www.youtube.com/shorts/MkKOhZ9HWVg",
       "https://www.youtube.com/shorts/ijTMs1Xy0u8",
-      "https://www.youtube.com/shorts/jvpfMjPiAoU",
-      "https://www.youtube.com/shorts/vnpbqKmzbHc"
+      "https://www.youtube.com/shorts/jvpfMjPiAoU"
     ],
     "STBG Academy": [
       "https://www.youtube.com/shorts/PTsnQP6cRQM",
@@ -204,18 +199,18 @@
       "https://www.youtube.com/watch?v=lDLRvTgK6l8"
     ],
     "Allen JEE": [
+      "https://www.youtube.com/watch?v=4yMaNe5jtGg",
+      "https://www.youtube.com/shorts/KSngzWRhP9M",
       "https://www.youtube.com/watch?v=7knqjp4LSlE",
       "https://www.youtube.com/shorts/9ijOkn_lI_U",
-      "https://www.youtube.com/shorts/KjVEK8-Yegs",
-      "https://www.youtube.com/shorts/406Rhvt3SdU",
-      "https://www.youtube.com/shorts/9ZRdAeRnjx0"
+      "https://www.youtube.com/shorts/KjVEK8-Yegs"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/FTNn32nykpg",
       "https://www.youtube.com/shorts/tyFC2Q3kO0g",
       "https://www.youtube.com/shorts/hIHFYvav064",
       "https://www.youtube.com/shorts/8IoEqlpntzo",
-      "https://www.youtube.com/shorts/edvv5YOePP4",
-      "https://www.youtube.com/shorts/LylgIURBfVA"
+      "https://www.youtube.com/shorts/edvv5YOePP4"
     ]
   }
 }
