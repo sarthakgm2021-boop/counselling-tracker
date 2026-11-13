@@ -77,7 +77,12 @@
       "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf"
     }
   ],
-  "FOT DU": [],
+  "FOT DU": [
+    {
+      "title": "Schedule",
+      "link": "https://drive.google.com/file/d/1sZ4DbcNHX0r7K5q2iMs-_CBoNImyVJN_/view?usp=sharing"
+    }
+  ],
   "GGSIPU": [
     {
       "title": "/ Government of Delhi",
@@ -170,11 +175,11 @@
   ],
   "_youtube": {
     "Ram Roop Sharma": [
+      "https://www.youtube.com/watch?v=Axgr9VjO69k",
       "https://www.youtube.com/watch?v=seShI7WDrAQ",
       "https://www.youtube.com/watch?v=zfCmA10_xd8",
       "https://www.youtube.com/watch?v=I5KT6dtXGrc",
-      "https://www.youtube.com/watch?v=PGZsxilNseM",
-      "https://www.youtube.com/watch?v=zK5j2AALsRM"
+      "https://www.youtube.com/watch?v=PGZsxilNseM"
     ],
     "Vashisht Academy": [
       "https://www.youtube.com/watch?v=-R4Dg6-kQco",
@@ -184,11 +189,11 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
-      "https://www.youtube.com/shorts/uzJoXdVB65w",
-      "https://www.youtube.com/shorts/hyrgCrmck_A",
-      "https://www.youtube.com/shorts/mMipAwoDQvM",
-      "https://www.youtube.com/shorts/Thq61gxU5MY",
-      "https://www.youtube.com/watch?v=Bd5RVXcLxkg"
+      "https://www.youtube.com/watch?v=28qjh7vzCwQ",
+      "https://www.youtube.com/watch?v=Bd5RVXcLxkg",
+      "https://www.youtube.com/shorts/2JnnWd1IA5g",
+      "https://www.youtube.com/shorts/zbVFkG0-BeE",
+      "https://www.youtube.com/shorts/uzJoXdVB65w"
     ],
     "Motion Online JEE": [
       "https://www.youtube.com/shorts/6Xq_R3DOBQ4",
@@ -212,18 +217,18 @@
       "https://www.youtube.com/watch?v=WRZljmv6BVU"
     ],
     "Allen JEE": [
+      "https://www.youtube.com/shorts/sEZVSV1WrSI",
       "https://www.youtube.com/shorts/Ph1Z-z76tEM",
       "https://www.youtube.com/shorts/3nZbs9cRLos",
       "https://www.youtube.com/watch?v=6_zMyIeJRaQ",
-      "https://www.youtube.com/shorts/dwVhviyBedw",
-      "https://www.youtube.com/watch?v=lOikdVBzcbs"
+      "https://www.youtube.com/shorts/dwVhviyBedw"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/RdqKarXS1v0",
       "https://www.youtube.com/shorts/A5w10GtQjfI",
       "https://www.youtube.com/shorts/xPdvnDVpzrU",
       "https://www.youtube.com/shorts/zFsjejbZSWc",
-      "https://www.youtube.com/shorts/cOkl7fBCflA",
-      "https://www.youtube.com/shorts/lOZ2jT940zM"
+      "https://www.youtube.com/shorts/cOkl7fBCflA"
     ]
   }
 }
