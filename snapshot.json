@@ -77,7 +77,12 @@
       "link": "https://cdnbbsr.s3waas.gov.in/s3dd28e50635038e9cf3a648c2dd17ad0a/uploads/2026/06/202606061507885008.pdf"
     }
   ],
-  "FOT DU": [],
+  "FOT DU": [
+    {
+      "title": "Schedule",
+      "link": "https://drive.google.com/file/d/1sZ4DbcNHX0r7K5q2iMs-_CBoNImyVJN_/view?usp=sharing"
+    }
+  ],
   "GGSIPU": [
     {
       "title": "/ Government of Delhi",
@@ -92,6 +97,10 @@
       "link": "https://ipu.admissions.nic.in/seat-intake-2025-2026/"
     },
     {
+      "title": "Notice regarding Last Date for Submission of Updated Score Card for Admissions to PG Ayurveda (Code 196) & PG Homoeopathy (Code 700)",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611202005333604.pdf"
+    },
+    {
       "title": "Important Notice for the programmes Post Graduate Ayurveda Courses (Code 196) and Post Graduate Homeopathy Courses (Code 700) A.S. 2026-27_dated-19.11.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611191583998817.pdf"
     },
@@ -102,10 +111,6 @@
     {
       "title": "STRAY ROUND (NEET UG 2026) BAMS (CODE 153) & BHMS (CODE 154) A.S. 2026-27_dated-13.11.2026",
       "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611131533919744.pdf"
-    },
-    {
-      "title": "Postponement of display of Counselling Schedule for the programmes PGAC (CODE 196) and PGHC (CODE 700) A.S: 2026-27_dated-13.11.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611131803844474.pdf"
     },
     {
       "title": "UG Admission Brochure 2026-2027 New",
@@ -176,18 +181,18 @@
       "https://www.youtube.com/watch?v=2POnAfLn5Wc"
     ],
     "Vedantu JEE Made Ejee": [
-      "https://www.youtube.com/watch?v=i5peZyG_4oA",
-      "https://www.youtube.com/shorts/MPm_8zDG4oc",
-      "https://www.youtube.com/shorts/iBhhEO33fvI",
-      "https://www.youtube.com/shorts/DiVVOF4XtZU",
-      "https://www.youtube.com/watch?v=4m3-QlrwM9c"
+      "https://www.youtube.com/watch?v=gTrIctVtb3s",
+      "https://www.youtube.com/shorts/sn_h_ap-xDk",
+      "https://www.youtube.com/shorts/EfGHfWeLXSo",
+      "https://www.youtube.com/shorts/8fqJPki2H6E",
+      "https://www.youtube.com/watch?v=i5peZyG_4oA"
     ],
     "Motion Online JEE": [
+      "https://www.youtube.com/shorts/NAxTHxrQLqM",
       "https://www.youtube.com/shorts/avQJK693nwM",
       "https://www.youtube.com/shorts/MUuwxxKTvSo",
       "https://www.youtube.com/shorts/jUgm1322BNw",
-      "https://www.youtube.com/shorts/4qdkVxyXbiw",
-      "https://www.youtube.com/shorts/8BnFeqDd4qo"
+      "https://www.youtube.com/shorts/4qdkVxyXbiw"
     ],
     "STBG Academy": [
       "https://www.youtube.com/shorts/CjN-O4l9-fg",
@@ -204,18 +209,18 @@
       "https://www.youtube.com/watch?v=WRZljmv6BVU"
     ],
     "Allen JEE": [
-      "https://www.youtube.com/watch?v=HPvH9Q9PvHI",
-      "https://www.youtube.com/shorts/oFVveAir11M",
-      "https://www.youtube.com/shorts/s209U5u3cBs",
-      "https://www.youtube.com/shorts/Bezh5BsBdIk",
-      "https://www.youtube.com/shorts/jr1LW4rdtRc"
+      "https://www.youtube.com/shorts/g-l7exlFTJU",
+      "https://www.youtube.com/watch?v=s1TqhxdNsds",
+      "https://www.youtube.com/watch?v=AUCCiKR-EFM",
+      "https://www.youtube.com/watch?v=MDVHc5BkMxU",
+      "https://www.youtube.com/shorts/XluyOYkebog"
     ],
     "Motion NV Sir": [
+      "https://www.youtube.com/shorts/ePV3bgTYOIw",
       "https://www.youtube.com/shorts/1eCm_awpZJY",
       "https://www.youtube.com/shorts/LD5nHM4xogA",
       "https://www.youtube.com/shorts/yf-R85FiTxI",
-      "https://www.youtube.com/shorts/ksvX3ykX_MQ",
-      "https://www.youtube.com/shorts/_UaPOwn8w-Y"
+      "https://www.youtube.com/shorts/ksvX3ykX_MQ"
     ]
   }
 }
